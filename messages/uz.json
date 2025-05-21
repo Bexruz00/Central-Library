@@ -1,0 +1,15 @@
+{
+  "HeaderMenu": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqqimizda",
+    "shop": "Do'kon",
+    "delivery-team": "Yetkazib berish",
+    "sellers": "Sotuvchilar"
+  },
+  "Hero":{
+    "hero-title": "Kitobsevarni orzular mamlakati kutmoqda!",
+    "hero-subtitle": "Kitobsevarlar jannatiga xush kelibsiz! Bizning hamjamiyatimizga qo'shiling va har bir kitob yangi odamni ilhomlantirish imkoniyatiga ega bo'lgan doimiy rivojlanib borayotgan hikoyalar kutubxonasiga hissa qo'shing.",
+    "hero-input": "Kitob qidirish",
+    "hero-button": "Qidirish"
+  }
+}

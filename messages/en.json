@@ -1,0 +1,15 @@
+{
+  "HeaderMenu": {
+    "home": "Home",
+    "about": "About",
+    "shop": "Shop",
+    "delivery-team": "Delivery Team",
+    "sellers": "Sellers"
+  },
+  "Hero":{
+    "hero-title": "The Book Lover's Dreamland Awaits!",
+    "hero-subtitle": "Welcome to the ultimate book lover's paradise! Join our community and contribute to the ever-evolving library of stories, where every book has a chance to inspire someone new.",
+    "hero-input": "Search  a Book",
+    "hero-button": "Search"
+  }
+}

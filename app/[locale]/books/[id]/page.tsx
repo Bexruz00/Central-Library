@@ -8,12 +8,14 @@ interface PageProps {
   };
 }
 
-export default async function SingleBookPage({ params }: PageProps) {
+export default async function SingleBookPage({
+  params,
+}: {
+  params: { id: string };
+}) {
   const { id } = params;
-
-  try {
-    const res = await instance().get(`/books/${id}`);
-    const book = res.data;
+  const res = await instance().get(`/books/${id}`);
+  const book = res.data;
 
     return (
       <>
@@ -69,7 +71,5 @@ export default async function SingleBookPage({ params }: PageProps) {
         </div>
       </>
     );
-  } catch (error) {
-    return <div className="text-red-500 p-10">Kitob topilmadi yoki API xatoligi yuz berdi.</div>;
-  }
-}
+  } 
+

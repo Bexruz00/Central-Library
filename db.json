@@ -7,58 +7,65 @@
     ],
     "books":[
       {
-        "id": 1,
+        "id": "1",
         "book_name": "Garov",
         "book_author": "Anton Chexov",
         "book_description": "Lev Tolstoy «prozadagi Pushkin» deya ta’riflagan rus adibi Anton Chexov nasrning deyarli barcha janrlarida ijod qildi. Lekin yozuvchi dahosi uning hikoyalarida bus-butun namoyon bo‘ladi. A.Chexovning «Garov» hikoyasida keksa bankir bilan bahs boglagan 25 yoshli huquqshunosning tanholikda kechirgan 15 yillik hayoti aks ettirilgan. «O‘n besh yil chillada o‘tirgan, kitoblar ummonida suzgan, musiqaning lojuvard osmonida sayr etgan, jism yukini ruh kuchiga aylantirgan huquqshunos kim edi-yu, kim bo‘ldi? U komillikka erishadi. Yolgʼon dunyo so‘qmoqlarida keza-keza asl haqiqatni topadi».",
+        "book_infoauthor": "Anton Chexov 1860 yil 29 yanvarda Taganrog shahrida tug'ilgan. 'Cho'l' va 'It bilan Ittifoq' singari hikoyalar orqali Shaxzoda va Vanya tog'asi singari asarlar muallifi, inson tabiatining chuqurligini ta'kidlab, kundalik hodisalarning yashirin ma'nosi hamda komediya va fojia o'rtasidagi nozik chiziqni ko'rsatib bera olgan. Chexov 1904 yil 15-iyulda Germaniyaning Badenvays shahrida sil kasalligidan vafot etdi.",
         "book_image": "https://api.mutolaa.com/media/books/2024/05/Yor-yor_audiokino.jpg",
         "book_price": "23 000"
       },
       {
-        "id": 2,
+        "id": "2",
         "book_name": "Dahshat",
         "book_author": "Abdulla Qahhor",
         "book_description": "“Dahshat” – bir insonning erki va ozodligi misolida butun jamiyatning hayotini tasvirlagan asar. O‘qish davomida siz o‘zingizga bir savolni berasiz: Unsinning o‘rnida siz nima qilgan bo‘lardingiz? Kurashish yoki taqdirga tan berish?",
+        "book_infoauthor": "Abdulla Qahhor (1907—1968) — Talantli oʻzbek yozuvchisi. 1907 yil 17 sentyabrda Ashtda tugʻildi. Oldin eski maktabda, «Istiqbol» maktab-internatida, soʻngra Qoʻqon pedtexnikumida oʻqidi. 1925 yilda Toshkentga kelib, turli tahririyatlarda mehnat qildi. 1926—1930 yillarda Oʻrta Osiyo davlat universitetining pedagogika fakultetida tahsil oldi. Umri mobaynida turli ijodiy muassasalarda ishladi.",
         "book_image": "https://api.mutolaa.com/media/books/2024/02/IMG_20240201_133837_967.png",
         "book_price": "50 000"
       },
       {
-        "id": 3,
+        "id": "3",
         "book_name": "Ot egasi",
         "book_author": "Shukur Xolmirzayev",
         "book_description": "Hikoyadan: “Inodning uchta boyligi bor edi. Biri – soy boʻyidagi serdaraxt qishlogʻi; qishloq chetida bosmachilar bilan urushda halok boʻlgan otasining qabri doʻppayib turar, Inod goho uni ziyorat qilgani borardi. Ikkinchi boyligi – qishloq oʻrtasidagi tepada oʻrnashgan ikki xonali maktabi edi...”",
+        "book_infoauthor": "Shukur Xolmirzayev 1940-yil 24-martda Surxondaryo viloyati Boysun tumanida tugʻilgan. Oʻzbekiston xalq yozuvchisi (1991). Toshkent universitetining jurnalistika fakultetini tugatgan (1963). Dastlabki hikoya va ocherklari 1958-yildan nashr etila boshlagan. “Oq otli” (1962), “Toʻlqinlar” (1963), “Oʻn sakkizga kirmagan kim bor?” (1965) qissalari, shuningdek, yozuvchining shu davrda yozgan hikoyalari “Olis yulduzlar ostida” (1971), “Hayot abadiy” (1974), “Ogʻir tosh koʻchsa…” (1980), “Yoʻllar, yoʻldoshlar” (1984), “Bodom qishda gulladi” (1986), “Togʻlarga qor tushdi” (1987) singari toʻplamlaridan oʻrin olgan. Yozuvchi 2005-yil 29-sentyabrda Toshkent shahrida vafot etgan.",
         "book_image": "https://api.mutolaa.com/media/books/2024/05/Shukur_Xolmirzayev._Ot_egasi_hikoya.jpg",
         "book_price": "12 000"
       },
       {
-        "id": 4,
+        "id": "4",
         "book_name": "Jinlar bazmi",
         "book_author": "Abdulla Qodiriy",
         "book_description": "Ushbu hikoya 1916-yilda yozilgan bo‘lsa-da, birinchi bor 1921-yilda “Sharq chechagi” jurnalida bosilgan. Asar yozilganiga bir asr bo‘lganiga qaramay, unda tasvirlangan voqealar o‘zining originalligi, uslubiy ravonligi, tilining soddaligi va ifodaliligi bilan kitobxonlar e’tiborini tortib kelmoqda.",
+        "book_infoauthor": "Abdulla Qodiriy 1894 yil 10 aprelda Toshkent shahrida tug‘ilgan. XX asr yangi o‘zbek adabiyotining ulkan namoyandasi, o‘zbek romanchiligining asoschisi. 20-yillardagi muhim ijtimoiy-madaniy jarayonlarning faol ishtirokchisi. Musulmon maktabida (1904—06), rus-tuzem maktabida (1908-12), Abulqosim shayx madrasasida (1916—17) ta’lim olgan; Moskvadagi adabiyot kursida (1925—26) o‘qigan",
         "book_image": "https://api.mutolaa.com/media/books/2024/03/Abdulla_Qodiriy._Jinlar_bazmi.jpg",
         "book_price": "30 000"
       },
       {
-        "id": 5,
+        "id": "5",
         "book_name": "Hellados",
         "book_author": "Nodar Dumbadze",
         "book_description": "Hikoya qishloqdagi barcha bolalarga mushtumzo‘r Yanguli hukmronlik qiladigan Chalbash daryosi bo‘yidagi Venesian koʻchasiga Jamolning kelishi bilan boshlanadi. Jamol Yanguli bilgan boshqa bolalarga o‘xshamasdi. U irodali, ayni paytda o‘ziga hukm o‘tkazishlariga yo‘l qo‘ymaydigan darajada mag‘rur bola edi. Jamol birinchi marta o‘zining shunday xislatlari bilan Yangulini qiziqtirib qo‘yadi, qolaversa o‘ziga nisbatan adovat uyg‘otadi. Xoʻsh, bu adovatning asl sababi nima edi? Yanguli nima uchun bunday olishuvni, murosasiz kurashni boshladi?",
+        "book_infoauthor": "Gruzin yozuvchisi. Ilk hikoyalar to‘plami – «Qishloq bolalari» (1958). Dastlabki yirik asarlari – «Men, buvim, Iliko va Illarion» (1960) qissasi va «Quyoshni ko‘ryapman» (1962) romanida 2-jahon urushi yillaridagi gruzin qishloqlarining og‘ir hayoti aks etgan.«Quyosh kechasi» (1967), «Oq bayroqlar» (1972) romanlarida zamonaviy muhim ijtimoiy-axloqiy masalalar ko‘tarilgan.«Abadiyat qonuni» (1978)da insonning jamiyatdagi o‘rni, yashashning ma’nosi mavjud hayotiy lavhalar, shaxslar orqali aks ettirilgan. Dumbadze asarlari chuqur lirizm bilan sug‘orilgan, ularda dramatizm yumor bilan uyg‘unlashib ketgan.",
         "book_image": "https://api.mutolaa.com/media/books/2024/02/Nodar_Dumbadze._Hellados.jpg",
         "book_price": "50 000"
       },
       {
-        "id": 6,
+        "id": "6",
         "book_name": "Tulki",
         "book_author": "Jubron Xalil Jubron",
         "book_description": "Bolalar va kattalar uchun ibratli ertak",
+        "book_infoauthor": "Jubron, Xalil Jubron (1883.6.1, Livan, Bshirro qishlog‘i — 1931) — arab yozuvchisi, faylasuf, rassom. Arab, ingliz tillarida ijod qilgan. Ilk ijodi romantik ruhda («Halil-Kofir», «Isyonkor ruhlar» hikoyalar to‘plamlari). «Singan qanotlar» (1912) qissasi mashhur. «Ko‘z yoshlari va tabassum» (1914) to‘plami 60 ga yaqin saj (qofiyalangan nasr) bilan yozilgan kichik she’riy parchalardan iborat bo‘lib, unga «Mening tug‘ilgan kunim», «Shoir avlodi» kabi romantik asarlari kiritilgan.",
         "book_image": "https://api.mutolaa.com/media/books/2024/08/Tulki.jpg",
         "book_price": "35 000"
       },
       {
-        "id": 7,
+        "id": "7",
         "book_name": "Kecha va kunduz",
         "book_author": "Abdulhamid Choʻlpon",
         "book_description": "Romanda xalq va jamiyat hayotida muhim ahamiyatga molik boʻlgan barcha ziddiyatlar ifodalangan. Jafokash xalqning, xususan, xotin-qizlarning fojeiy hayoti tasvirlangan. Qahramonlar taqdirida butun bir xalqning davrga xos fojeali hayoti yaqqol koʻrsatib berilgan.",
+        "book_infoauthor": "Cho’lpon 1897 yili Andijonda tug’ilgan. Eski maktabda savod chiqargan. Keyin rus-tuzem maktabida o’qigan. 1914 yili Toshkentga keladi va o’z faoliyatini “Sadoi Turkiston” gazetasi bilan bog’laydi. Uning asarlari Orenburg, Ufa, Qozon va Bog’chasaroyda chiqadigan gazeta va jurnallarda ham bosilib turgan. 1916-1917 yillarda Orenburgda yashaydi va u yerda boshqird hukumati mahkamasida kotib bo’lib ishlaydi. So’ng Toshkentga qaytadi. 1920 yilgacha TurkRosTAda xizmat qiladi. 1920 yili Bokuda bo’lgan Sharq xalqlari qurultoyida qatnashadi. O’sha yili Fitrat taklifi bilan Buxoroga boradi va o’zbek tilida chiqadigan “Buxoro axbori” gazetasiga rahbarlik qiladi. Bir yilcha ishlab Toshkentga qaytadi. Adabiyot va madaniyat ishlari bilan shug’ullanadi. 1924-1926 yillarda Cho’lpon Moskvada yashaydi. U yerda ochilgan O’zbek dramstudiyasiga rahbarlik qiladi.",
         "book_image": "https://api.mutolaa.com/media/books/2024/05/photo_2024-05-27_09-37-56.jpg",
         "book_price": "35 000"
       },
@@ -66,8 +73,10 @@
         "book_name": "",
         "book_author": "",
         "book_description": "",
+        "book_infoauthor": "",
         "book_image": "",
         "book_price": ""
       }
+      
     ]
 }

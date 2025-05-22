@@ -34,7 +34,7 @@ const Swippers = () => {
   return (
     <div className='containers rounded-md md:!mt-[100px] sm:!mt-[50px] !mt-[10px]'>
       <h2 className='md:text-[48px] sm:text-[40px] text-[32px] text-center font-bold md:!mb-[50px] sm:!mb-[10px] !mb-[30px]'>{t("swippers-title")}</h2>
-      <Swiper slidesPerView={4} spaceBetween={20} loop={true} pagination={{ dynamicBullets: true, }} navigation={true} modules={[Pagination]} className="swipper1">
+      <Swiper slidesPerView={4} spaceBetween={20} pagination={{ dynamicBullets: true, }} navigation={true} modules={[Pagination]} className="swipper1">
         {books.slice(0, 6).map((item: any, index: number) => (
           <SwiperSlide key={index} className='rounded-md lg:!h-[450px] !h-[380px] !p-3 cursor-pointer duration-300'>
             <div onClick={() => handleClick(item.id)} className='overflow-hidden flex gap-[16px] justify-center hover:scale-102 duration-200 flex-col max-w-[230px] rounded-md'>
@@ -47,7 +47,7 @@ const Swippers = () => {
           </SwiperSlide>
         ))}
       </Swiper>
-      <Swiper slidesPerView={2} spaceBetween={20} loop={true} pagination={{ dynamicBullets: true, }} navigation={true} modules={[Pagination]} className="swipper2">
+      <Swiper slidesPerView={2} spaceBetween={20} pagination={{ dynamicBullets: true, }} navigation={true} modules={[Pagination]} className="swipper2">
         {books.slice(0, 6).map((item: any, index: number) => (
           <SwiperSlide key={index} className='!flex !items-center !justify-center rounded-md sm:!h-[450px] !pb-[50px] !h-[330px] sm:!p-3 !p-0 cursor-pointer duration-300'>
             <div onClick={() => handleClick(item.id)} className=' overflow-hidden flex gap-[16px] justify-center hover:scale-102 duration-200 flex-col max-w-[230px] rounded-md'>

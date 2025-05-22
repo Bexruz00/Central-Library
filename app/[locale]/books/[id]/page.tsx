@@ -41,7 +41,6 @@
 //   );
 // };
 
-// export default SingleBookPage;
 import { AuthorIcon, PayIcon } from "@/assets/icons";
 import { instance } from "@/hooks/instance";
 import Header from "@/modules/Header";
@@ -67,6 +66,7 @@ export async function generateStaticParams() {
 
 export default async function SingleBookPage({ params }: PageProps) {
   const { id } = params;
+
   const res = await instance().get(`/books/${id}`);
   const book = res.data;
 

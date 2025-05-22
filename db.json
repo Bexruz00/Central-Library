@@ -13,7 +13,8 @@
         "book_description": "Lev Tolstoy «prozadagi Pushkin» deya ta’riflagan rus adibi Anton Chexov nasrning deyarli barcha janrlarida ijod qildi. Lekin yozuvchi dahosi uning hikoyalarida bus-butun namoyon bo‘ladi. A.Chexovning «Garov» hikoyasida keksa bankir bilan bahs boglagan 25 yoshli huquqshunosning tanholikda kechirgan 15 yillik hayoti aks ettirilgan. «O‘n besh yil chillada o‘tirgan, kitoblar ummonida suzgan, musiqaning lojuvard osmonida sayr etgan, jism yukini ruh kuchiga aylantirgan huquqshunos kim edi-yu, kim bo‘ldi? U komillikka erishadi. Yolgʼon dunyo so‘qmoqlarida keza-keza asl haqiqatni topadi».",
         "book_infoauthor": "Anton Chexov 1860 yil 29 yanvarda Taganrog shahrida tug'ilgan. 'Cho'l' va 'It bilan Ittifoq' singari hikoyalar orqali Shaxzoda va Vanya tog'asi singari asarlar muallifi, inson tabiatining chuqurligini ta'kidlab, kundalik hodisalarning yashirin ma'nosi hamda komediya va fojia o'rtasidagi nozik chiziqni ko'rsatib bera olgan. Chexov 1904 yil 15-iyulda Germaniyaning Badenvays shahrida sil kasalligidan vafot etdi.",
         "book_image": "https://api.mutolaa.com/media/books/2024/05/Yor-yor_audiokino.jpg",
-        "book_price": "23 000"
+        "book_price": "23 000",
+        "book_star": "5"
       },
       {
         "id": "2",
@@ -22,7 +23,8 @@
         "book_description": "“Dahshat” – bir insonning erki va ozodligi misolida butun jamiyatning hayotini tasvirlagan asar. O‘qish davomida siz o‘zingizga bir savolni berasiz: Unsinning o‘rnida siz nima qilgan bo‘lardingiz? Kurashish yoki taqdirga tan berish?",
         "book_infoauthor": "Abdulla Qahhor (1907—1968) — Talantli oʻzbek yozuvchisi. 1907 yil 17 sentyabrda Ashtda tugʻildi. Oldin eski maktabda, «Istiqbol» maktab-internatida, soʻngra Qoʻqon pedtexnikumida oʻqidi. 1925 yilda Toshkentga kelib, turli tahririyatlarda mehnat qildi. 1926—1930 yillarda Oʻrta Osiyo davlat universitetining pedagogika fakultetida tahsil oldi. Umri mobaynida turli ijodiy muassasalarda ishladi.",
         "book_image": "https://api.mutolaa.com/media/books/2024/02/IMG_20240201_133837_967.png",
-        "book_price": "50 000"
+        "book_price": "50 000",
+        "book_star": "5"
       },
       {
         "id": "3",
@@ -31,7 +33,8 @@
         "book_description": "Hikoyadan: “Inodning uchta boyligi bor edi. Biri – soy boʻyidagi serdaraxt qishlogʻi; qishloq chetida bosmachilar bilan urushda halok boʻlgan otasining qabri doʻppayib turar, Inod goho uni ziyorat qilgani borardi. Ikkinchi boyligi – qishloq oʻrtasidagi tepada oʻrnashgan ikki xonali maktabi edi...”",
         "book_infoauthor": "Shukur Xolmirzayev 1940-yil 24-martda Surxondaryo viloyati Boysun tumanida tugʻilgan. Oʻzbekiston xalq yozuvchisi (1991). Toshkent universitetining jurnalistika fakultetini tugatgan (1963). Dastlabki hikoya va ocherklari 1958-yildan nashr etila boshlagan. “Oq otli” (1962), “Toʻlqinlar” (1963), “Oʻn sakkizga kirmagan kim bor?” (1965) qissalari, shuningdek, yozuvchining shu davrda yozgan hikoyalari “Olis yulduzlar ostida” (1971), “Hayot abadiy” (1974), “Ogʻir tosh koʻchsa…” (1980), “Yoʻllar, yoʻldoshlar” (1984), “Bodom qishda gulladi” (1986), “Togʻlarga qor tushdi” (1987) singari toʻplamlaridan oʻrin olgan. Yozuvchi 2005-yil 29-sentyabrda Toshkent shahrida vafot etgan.",
         "book_image": "https://api.mutolaa.com/media/books/2024/05/Shukur_Xolmirzayev._Ot_egasi_hikoya.jpg",
-        "book_price": "12 000"
+        "book_price": "12 000",
+        "book_star": "4"
       },
       {
         "id": "4",
@@ -40,7 +43,8 @@
         "book_description": "Ushbu hikoya 1916-yilda yozilgan bo‘lsa-da, birinchi bor 1921-yilda “Sharq chechagi” jurnalida bosilgan. Asar yozilganiga bir asr bo‘lganiga qaramay, unda tasvirlangan voqealar o‘zining originalligi, uslubiy ravonligi, tilining soddaligi va ifodaliligi bilan kitobxonlar e’tiborini tortib kelmoqda.",
         "book_infoauthor": "Abdulla Qodiriy 1894 yil 10 aprelda Toshkent shahrida tug‘ilgan. XX asr yangi o‘zbek adabiyotining ulkan namoyandasi, o‘zbek romanchiligining asoschisi. 20-yillardagi muhim ijtimoiy-madaniy jarayonlarning faol ishtirokchisi. Musulmon maktabida (1904—06), rus-tuzem maktabida (1908-12), Abulqosim shayx madrasasida (1916—17) ta’lim olgan; Moskvadagi adabiyot kursida (1925—26) o‘qigan",
         "book_image": "https://api.mutolaa.com/media/books/2024/03/Abdulla_Qodiriy._Jinlar_bazmi.jpg",
-        "book_price": "30 000"
+        "book_price": "30 000",
+        "book_star": "5"
       },
       {
         "id": "5",
@@ -49,7 +53,8 @@
         "book_description": "Hikoya qishloqdagi barcha bolalarga mushtumzo‘r Yanguli hukmronlik qiladigan Chalbash daryosi bo‘yidagi Venesian koʻchasiga Jamolning kelishi bilan boshlanadi. Jamol Yanguli bilgan boshqa bolalarga o‘xshamasdi. U irodali, ayni paytda o‘ziga hukm o‘tkazishlariga yo‘l qo‘ymaydigan darajada mag‘rur bola edi. Jamol birinchi marta o‘zining shunday xislatlari bilan Yangulini qiziqtirib qo‘yadi, qolaversa o‘ziga nisbatan adovat uyg‘otadi. Xoʻsh, bu adovatning asl sababi nima edi? Yanguli nima uchun bunday olishuvni, murosasiz kurashni boshladi?",
         "book_infoauthor": "Gruzin yozuvchisi. Ilk hikoyalar to‘plami – «Qishloq bolalari» (1958). Dastlabki yirik asarlari – «Men, buvim, Iliko va Illarion» (1960) qissasi va «Quyoshni ko‘ryapman» (1962) romanida 2-jahon urushi yillaridagi gruzin qishloqlarining og‘ir hayoti aks etgan.«Quyosh kechasi» (1967), «Oq bayroqlar» (1972) romanlarida zamonaviy muhim ijtimoiy-axloqiy masalalar ko‘tarilgan.«Abadiyat qonuni» (1978)da insonning jamiyatdagi o‘rni, yashashning ma’nosi mavjud hayotiy lavhalar, shaxslar orqali aks ettirilgan. Dumbadze asarlari chuqur lirizm bilan sug‘orilgan, ularda dramatizm yumor bilan uyg‘unlashib ketgan.",
         "book_image": "https://api.mutolaa.com/media/books/2024/02/Nodar_Dumbadze._Hellados.jpg",
-        "book_price": "50 000"
+        "book_price": "50 000",
+        "book_star": "5"
       },
       {
         "id": "6",
@@ -58,7 +63,8 @@
         "book_description": "Bolalar va kattalar uchun ibratli ertak",
         "book_infoauthor": "Jubron, Xalil Jubron (1883.6.1, Livan, Bshirro qishlog‘i — 1931) — arab yozuvchisi, faylasuf, rassom. Arab, ingliz tillarida ijod qilgan. Ilk ijodi romantik ruhda («Halil-Kofir», «Isyonkor ruhlar» hikoyalar to‘plamlari). «Singan qanotlar» (1912) qissasi mashhur. «Ko‘z yoshlari va tabassum» (1914) to‘plami 60 ga yaqin saj (qofiyalangan nasr) bilan yozilgan kichik she’riy parchalardan iborat bo‘lib, unga «Mening tug‘ilgan kunim», «Shoir avlodi» kabi romantik asarlari kiritilgan.",
         "book_image": "https://api.mutolaa.com/media/books/2024/08/Tulki.jpg",
-        "book_price": "35 000"
+        "book_price": "35 000",
+        "book_star": "4"
       },
       {
         "id": "7",
@@ -67,7 +73,199 @@
         "book_description": "Romanda xalq va jamiyat hayotida muhim ahamiyatga molik boʻlgan barcha ziddiyatlar ifodalangan. Jafokash xalqning, xususan, xotin-qizlarning fojeiy hayoti tasvirlangan. Qahramonlar taqdirida butun bir xalqning davrga xos fojeali hayoti yaqqol koʻrsatib berilgan.",
         "book_infoauthor": "Cho’lpon 1897 yili Andijonda tug’ilgan. Eski maktabda savod chiqargan. Keyin rus-tuzem maktabida o’qigan. 1914 yili Toshkentga keladi va o’z faoliyatini “Sadoi Turkiston” gazetasi bilan bog’laydi. Uning asarlari Orenburg, Ufa, Qozon va Bog’chasaroyda chiqadigan gazeta va jurnallarda ham bosilib turgan. 1916-1917 yillarda Orenburgda yashaydi va u yerda boshqird hukumati mahkamasida kotib bo’lib ishlaydi. So’ng Toshkentga qaytadi. 1920 yilgacha TurkRosTAda xizmat qiladi. 1920 yili Bokuda bo’lgan Sharq xalqlari qurultoyida qatnashadi. O’sha yili Fitrat taklifi bilan Buxoroga boradi va o’zbek tilida chiqadigan “Buxoro axbori” gazetasiga rahbarlik qiladi. Bir yilcha ishlab Toshkentga qaytadi. Adabiyot va madaniyat ishlari bilan shug’ullanadi. 1924-1926 yillarda Cho’lpon Moskvada yashaydi. U yerda ochilgan O’zbek dramstudiyasiga rahbarlik qiladi.",
         "book_image": "https://api.mutolaa.com/media/books/2024/05/photo_2024-05-27_09-37-56.jpg",
-        "book_price": "35 000"
+        "book_price": "35 000",
+        "book_star": "5"
+      },
+      {
+        "id": "8",
+        "book_name": "Oʻn besh yoshli kapitan",
+        "book_author": "Jyul Vern",
+        "book_description": "Asrlar osha qoʻldan qoʻymay oʻqib kelinayotgan mazkur asarda oʻn besh yoshli kapitan – Dik Sendning bir-biridan qiziqarli sarguzashtlari qalamga olinadi. Jumladan, Janubiy Afrikada kechgan xunrezliklar, qullar savdosi bilan bogʻliq ayanchli voqealar, turli xavf-xatarlarga qolgan kapitan Dik va sayohatchi doʻstlari – xizmatchisi Gerkules, missis Ueldon va uning kichik oʻgʻli Jek, xayolparast olim Benedikt togʻaning boshidan kechirganlari sizni befarq qoldirmaydi degan umiddamiz.",
+        "book_infoauthor": "Jyul Vern (1828. 8. 2, Nant – 1905. 24. 3, Amen) – frantsuz yozuvchisi. Ilmiy-fantastik roman janri asoschilaridan biri. Ijodini 1849-yildan kichik pesalar yozish bilan boshlagan. 1863-yil birinchi romani – “Havo sharida besh hafta” nashr qilingan. Vern “Er markaziga sayohat” (1864), “Erdan Oyga” (1865), “Oy atrofida” (1869), “Kapitan Grant bolalari” (1867-68), “Suv ostida 20000 kilometr” (1869– 70), “Oʻn besh yoshli kapitan” (1878), “Suzib yuruvchi orol” (1895) kabi 65 dan ziyod ilmiy-fantastik, sarguzasht va ijtimoiy-tanqidiy roman, qissa va hikoyalar muallifi. Oʻrta Osiyoda hech qachon boʻlmagan Vern “Klodius Bombarnak” romanida uning tarixini, geografik oʻrni va iqlimini, mahalliy xalqlarning urf-odatlarini haqiqatga yaqin qilib tasvirlaydi. ",
+        "book_image": "https://api.mutolaa.com/media/books/2024/02/15_yoshli_kapitan.jpg",
+        "book_price": "50 000",
+        "book_star": "4.5"
+      },
+      {
+        "id": "9",
+        "book_name": "Farhod va Shirin",
+        "book_author": "Alisher Navoiy",
+        "book_description": "“Farhod va Shirin” haqiqiy sevgi-muhabbat, vafo va sadoqat, doʻstlik va insonparvarlik gʻoyalari qatorida, kasb-hunar oʻrganishning foydalari, shohlar va ularning saltanatlari, shohlik tartib-qoidalari haqidagi keng qamrovli, ibratli rivoyatlarga boy dostondir. Ikki oshiqning begʻubor sevgisi va sevishganlarning fojiali taqdiri nihoyatda mahzunlik bilan kuylangani uchun bu doston asrlar oshsa ham sevib oʻqib kelinmoqda.",
+        "book_infoauthor": "Alisher Navoiy (1441-1501) - buyuk shoir va mutafakkir, davlat arbobi. To‘liq ismi Nizomiddin Mir Alisher. Navoiy tahallusi ostida chig‘atoy (eki o‘zbek tili) hamda forsiyda (fors tilidagi asarlarida) ijod qilgan. G‘arbda chig‘atoy adabiyoti hisoblanmish o‘zbek adabiyotining eng yirik namoyondasi. Umuman olganda, butun turkiy xalqlari orasida u kabi yirik shaxs yo‘qdir.",
+        "book_image": "http://api.mutolaa.com/media/books/2024/02/Alisher_Navoiy._Farhod_va_Shirin.jpg",
+        "book_price": "78 000",
+        "book_star": "4.5"
+      },
+      {
+        "id": "10",
+        "book_name": "Evrilish",
+        "book_author": "Frans Kafka",
+        "book_description": "“Evrilish” – Frans Kafka tomonidan 1915-yilda birinchi marta nashr etilgan qissa. Kafkaning eng mashhur asarlaridan biri boʻlgan “Evrilish” sotuvchi Gregor Zamza haqida hikoya qiladi, u bir kuni ertalab uygʻonib, oʻzini tushunarsiz tarzda ulkan hasharotga aylanganiga guvoh boʻladi va keyinchalik bu yangi holatga moslashish uchun kurashadi. Bu asar adabiyotshunoslar orasida keng muhokama qilinib, turlicha talqin qilingan.",
+        "book_infoauthor": "Frans Kafka 1883-yilning 3-iyulida Praga shahrida tug‘ilgan. Otasi o‘z mehnati tufayli shaharda kichikroq bir fabrikaning egasi bo‘lgan. Kafka Pragadagi nemis gimnaziyasini tugatib, 1901 – 1905-yillarda Praga universitetida huquqshunoslikni o‘rgandi, san’at tarixi va olmonshunoslik bo‘yicha ma’ruzalar tingladi. 1906 – 1907-yillarda Praga shahar sudining advokatlar idorasida amaliyot o‘tadi. 1907-yilning oktyabridan boshlab xususiy sug‘urta jamiyatiga xizmatga kirdi. 1908-yilda Praga tijorat akademiyasida shu ixtisoslik bo‘yicha malakasini oshirdi. Shundan so‘ng u turli kam ish to‘lanadigan tashkilotlarda ishlagan.",
+        "book_image": "https://api.mutolaa.com/media/books/2024/04/Frans_Kafka._Evrilish_qissa.jpg",
+        "book_price": "32 000",
+        "book_star": "4"
+      },
+      {
+        "id": "11",
+        "book_name": "Mehrobdan chayon",
+        "book_author": "Abdulla Qodiriy",
+        "book_description": "“Mehrobdan chayon” – o‘zbek romanchiligining asoschisi Abdulla Qodiriyning ikkinchi yirik asari 1928-yil fevralda yozib tugatilgan. Roman birinchi marta 1929-yil Samarqandda bosilib chiqdi. Roman mavzusi XIX asr hodisalari “xon zamonlari” davridagi o‘zboshimchaliklarni ko‘rsatishga qaratilgan bo‘lsa-da, unda roman yozilgan davr ruhi kuchli singdirilgan. Romanda Anvar bilan Ra’noning sevgi sarguzashti, qalb nazokati shoirona tarannum etilgan.",
+        "book_infoauthor": "Abdulla Qodiriy 1894 yil 10 aprelda Toshkent shahrida tug‘ilgan. XX asr yangi o‘zbek adabiyotining ulkan namoyandasi, o‘zbek romanchiligining asoschisi. 20-yillardagi muhim ijtimoiy-madaniy jarayonlarning faol ishtirokchisi. Musulmon maktabida (1904—06), rus-tuzem maktabida (1908-12), Abulqosim shayx madrasasida (1916—17) ta’lim olgan; Moskvadagi adabiyot kursida (1925—26) o‘qigan",
+        "book_image": "https://api.mutolaa.com/media/books/2024/03/mehrobdan_chayon_2.jpg",
+        "book_price": "65 000",
+        "book_star": "5"
+      },
+      {
+        "id": "12",
+        "book_name": "Chol va dengiz",
+        "book_author": "Ernest Heminguey",
+        "book_description": "Dunyo miqyosida mashhur adib,  “Nobel” mukofoti sovrindori Ernest Hemingueyning “Chol va dengiz” qissasida insonning ulugʻligi, undagi iroda va matonat, oqillik va azm-u qaroridan ogʻishmaslik oʻzgacha talqinda aks etgan ",
+        "book_infoauthor": "Ernest Miller Xeminguey taniqli amerikalik qo‘shiqchi Greys Xoll va umumiy amaliyot shifokori Klarens Xemingueyning o‘g‘illari orasida eng kattasi edi. U Chikago yaqinida joylashgan Oks parkdagi nufuzli Amerika maktabida o‘qigan va u yerda uning adabiy qobiliyati yaqqol namoyon bo‘lgan. O‘spirin yigit yozgan qiziqarli hikoyalarini maktab va shahar gazetalarida chop ettirgan. Xeminguey 1917-yilda o‘rta maktabni tugatgach, armiyaga jo‘nashni xohlaydi. Biroq u ko‘rish qobiliyati tufayli armiyaga qabul qilinmaydi. U bolaligida jarohat olgan boʻlib, bir ko‘zi deyarli ko‘rmas edi. Keyinchalik u Kanzasdagi Star gazetasining muxbiri sifatida Fransiyaga borishga muvaffaq bo‘lgan. Xeminguey Amerika ekspeditsiya korpusi (qoʻshin) ga qo‘shilgan, ammo urushda oyog‘idan og‘ir yaralanib, Italiya kasalxonasiga yotqizilgani uchun urushda bor-yo‘g‘i 3 oy qatnashgan. U yerda bir necha oy yotgan va bir mehribon qizni sevib qolgan.",
+        "book_image": "https://api.mutolaa.com/media/books/2024/03/Ernest_Heminguey._Chol_va_dengiz.jpg",
+        "book_price": "45 000",
+        "book_star": "4"
+      },
+      {
+        "id": "13",
+        "book_name": "Kichkina shahzoda",
+        "book_author": "Antuan de Sent-Ekzyuperi",
+        "book_description": "O‘zining olisdagi mittigina sayyorasidan Yerga uchib kelgan bolakay. U ancha-muncha sayyoralarda bo‘lgan, har xil odamlarni uchratgan. Lekin u qayerda bo‘lmasin, tezda zerikib qoladi, o‘z sayyorasini sog‘inadi. Chunki Kichkina shahzoda o‘sha yerda tug‘ilgan. O‘sha joy uning vatani. O‘sha joyda uni sevimli guli kutmoqda. Xo‘sh, Kichkina shahzoda o‘z maskaniga qayta oladimi? Fransuz yozuvchisi Antuan de Sent-Ekzyuperining ushbu kitobini o‘qib chiqsangiz, bu savolga javob topasiz.",
+        "book_infoauthor": "Antuan 1900 yilda Fransiyaning Lion shahrida, qadimiy aristokrat oilasida dunyoga kelgan. U yoshlik chog‘larida juda sho‘x, o‘ta qiziquvchan bo‘lib, o‘choqdagi yonib turgan olovga qarab soatlab xayol surishni sevgan. Tonio (ota-onasi uni shunday atashgan) 10 yoshida Man shahrida kollejda, keyin Shveytsariyada va Parijda o‘qigan. 12 yoshida mashhur fransuz uchuvchisining samolyotida osmonga chiqib, uchuvchi bo‘lishni orzu qiladi. ",
+        "book_image": "https://api.mutolaa.com/media/books/2024/01/kichkina_shahzoda.png",
+        "book_price": "20 000",
+        "book_star": "5"
+      },
+      {
+        "id": "14",
+        "book_name": "Sariq devni minib",
+        "book_author": "Xudoyberdi Toʻxtaboyev",
+        "book_description": "Xudoyberdi To‘xtaboyevning ushbu asari sarguzashtlarga boy bo‘lib, o‘zbek bolalar adabiyotining noyob durdonalaridan biridir. Unda bolalikning sodda va samimiy, quvnoq va zavqli onlari teran nigoh bilan qalamga olinadi. Bu asarni, asardagi kulgiga boy sarguzashtlarni bemalol zamonaviy Garri Potterga qiyoslasa bo‘ladi. Asarni o‘qib chiqsangiz, bunga amin bo‘lasiz.",
+        "book_infoauthor": "Xudoyberdi To‘xtaboev (1932.17.12) — O‘zbekiston xalq yozuvchisi (1991). O‘zbekistonda xizmat ko‘rsatgan madaniyat xodimi (1982). Qo‘qon ped. bilim yurtini (1949), O‘rta Osiyo untini tugatgan (1955). O‘rta maktabda o‘qituvchi va direktor (1955— 58), „Toshkent haqiqati“ gaz.da adabiy xodim, bo‘lim mudiri (1958— 62), „Sovet O‘zbekistoni“ (1962—70) gaz., „Guliston“ jur. da (1970—72), „Yosh gvardiya“ nashriyotida (1972) bo‘lim mudiri va bosh muharrir o‘rinbosari (1974— 76), „Gulxan“, „Yosh kuch“ jurlarida bosh muharrir.",
+        "book_image": "https://api.mutolaa.com/media/books/2024/02/Xudoybersi_To%CA%BBxtaboyev._Sariq_devni_minib.jpg",
+        "book_price": "22 000",
+        "book_star": "5"
+      },
+      {
+        "id": "15",
+        "book_name": "Kulayotgan odam.",
+        "book_author": "Viktor Gyugo",
+        "book_description": "XIX asr Fransiya adabiyotining yirik vakili, Yevropa adabiyotida romantizm oqimi asoschilaridan biri Viktor Gyugo “Xoʻrlanganlar”, “93-yil”, “Parij avliyo bokirasi ibodatxonasi”, “Kulayotgan odam” kabi maʼlum va mashhur asarlarning muallifidir. Gyugo asarlaridagi har bir qahramon juda chuqur ijtimoiy-falsafiy mazmunni oʻziga singdirgan ramziy personajdir. XVIII–XIX asrlarda Fransiya va Yevropa siyosiy-ijtimoiy hayotidagi oʻta muhim voqealar hamda asarlaridagi qahramonlar taqdiri kesimida yozuvchi azaliy va abadiy qadriyatlar – oliyjanoblik, toʻgʻrilik, muhabbat va ularning aksi – hasad, kibr, sotqinlik toʻgʻrisida mahorat bilan hikoya qiladi.",
+        "book_infoauthor": "Viktor Mari Gyugo (1802.26.2, Bezanson — 1885.22.5, Parij) — fransuz adibi, romantizmning yirik namoyandasi. Dastlabki asari — «Qasidalar» (1821) she’rlar to‘plami monarxiya g‘oyalari ta’sirida bo‘lib, 20-yillarning 2-yarmidan demokratik qarashlari mustahkamlana borgan. Isyonkorlik ruhi bilan sug‘orilgan «Kromvel» (1827), «Sharq motivlari» (1829), «Marion Delorm» (1829), «Ernani» (1830), «Ryui Blaz» (1838) va boshqa she’riy va dramatik asarlarida davrning dolzarb masalalari aks etgan. «Parijdagi Bibi Maryam ibodatxonasi» (1831) tarixiy romani voqealari o‘rta asrda bo‘lib o‘tadi, asarda muhabbat fojiasi tasvirlanadi.",
+        "book_image": "https://api.mutolaa.com/media/books/2025/05/Viktor_Gyugo.Kulayotgan_odam.jpg",
+        "book_price": "100 000",
+        "book_star": "4"
+      },
+      {
+        "id": "16",
+        "book_name": "Masha bilan ayiq",
+        "book_author": "Ertak",
+        "book_description": "Kichik yoshdagi bolalar uchun ibratli ertak. Rus xalq ertagi.",
+        "book_infoauthor": "Masha va ayiq (ruscha: Маша и Медведь) yoki Qizaloq va maymoq — „Animakkord“ animatsion studiyasi tomonidan yaratilgan, keng ommaga moʻljallangan rus animatsion seriali. Multserial efirga uzatilishi 2009-yil 7-yanvarda boshlangan. Multfilm 3D grafika yordamida yaratilgan.",
+        "book_image": "https://api.mutolaa.com/media/books/2024/03/Masha_bilan_ayiq.jpg",
+        "book_price": "180 000",
+        "book_star": "4"
+      },
+      {
+        "id": "17",
+        "book_name": "Dunyoning ishlari",
+        "book_author": "Oʻtkir Hoshimov",
+        "book_description": "XX asr o‘zbek adabiyotida o‘z o‘rni va uslubiga ega bo‘lgan adib – O‘zbekiston xalq yozuvchisi O‘tkir Hoshimov, aytish mumkinki, XXI asr o‘quvchisining ham sevimli adibi bo‘lib qoladi. Jonli va hayotiy tasvirlar, sof o‘zbekona yondashuv va xarakter, qahramonlar o‘rtasidagi suhbatlar mutolaasi o‘quvchini o‘z ta’siriga oladi. Nafaqat millat, balki chin insoniylik tarannumi yozuvchi asarlarida yetakchilik qilishi kitobxon uchun tarbiyaviy va hayotiy saboq bo‘ladi. Xoh jiddiy, xoh hajviy bo‘lsin O‘tkir Hoshimov asarlarida hayot qaynaydi: unda har birimiz o‘zimizni, oilamizni, do‘st-u yorimizni, hatto hech kimga o‘xshamagan onamizni ko‘ramiz... Bir inson umrini qamragan roman bo‘lsin, qator novellalardan iborat qissa yoki hikoya bo‘lsin, janridan qat’i nazar, O‘tkir Hoshimov asarlarida dunyoning ishlari mujassam. Mutolaa har qanday o‘quvchi uchun katta hayotiy xulosa berishiga ishonamiz.",
+        "book_infoauthor": "O‘zbekiston xalq yozuvchisi O‘tkir Hoshimov Toshkentning Do‘mbirobod dahasida 1941 yilning 5 avgustida tavallud topgan bo‘lib, bolaligi urush qiyinchiliklari, muhtojliklari davrida kechgan. Shu tufayli u o‘rta maktabni a’lo baholar bilan bitirgan bo‘lsa ham oilaviy sharoiti yuzasidan ishlab turib o‘qishga majbur bo‘lgan. Toshkent Davlat universiteti jurnalistika fakultetining sirtqi bo‘limida o‘qish bilan «Temiryo‘lchi», «Toshkent haqiqati», «Qizil O‘zbekiston» kabi gazetalarda turli yumushlarni bajargan. 1966—1982 yillarda «Toshkent oqshomi» gazetasida bo‘lim mudiri, 1982—1985 yillarda G‘. G‘ulom nomidagi nashriyotda bosh muharrir o‘rinbosari, 1985 yildan boshlab esa «Sharq yulduzi» jurnalining bosh muharriri bo‘lib ishlab keladi. U O‘zbekiston Respublikasi Oliy Majlisi deputati hamda Matbuot va axborot qo‘mitasining raisi bo‘lib ham ishlagan.",
+        "book_image": "https://api.mutolaa.com/media/books/2024/02/dunyoning_ishlari.png",
+        "book_price": "30 000",
+        "book_star": "5"
+      },
+      {
+        "id": "18",
+        "book_name": "Sarvqomat dilbarim",
+        "book_author": "Chingiz Aytmatov",
+        "book_description": "Chingiz Aytmatovning ushbu qissasida tom ma'noda hayotiy-maishiy haqiqat va muammolar tasvirlanadi, desak mubolag‘a bo‘lmaydi. Asar qahramonlari – Ilyos, Asal, Xadicha, Boytemir, Jontoylarning har birining o‘ziga xos fe'l-atvori hozirgi kunda ham zamondoshlarimizning qaysidir birlarida takrorlanadi. Asal bilan Ilyos asar boshida tasodifan uchrashib, taqdir taqazosi bilan o‘zaro turmush qurishadi. Lekin negadir Ilyos o‘z muqaddas oilasiga xiyonat qiladi... Nima uchun? Asal nega Ilyosni kechirmadi? Jontoy nega Ilyosga hasadgo‘ylik bilan qarardi? Ilyos uzoq yillardan keyin farzandini topganda unga nega otasi ekanligini aytolmay qiynaladi? Boytemir Ilyos va Asal taqdirida qanday rol o‘ynaydi? Asarni o‘qish davomida bu savollarga javob topasiz.",
+        "book_infoauthor": "Qirgʻiz yozuvchisi, davlat, jamoat arbobi, diplomat. Qirgʻiziston xalq yozuvchisi (1968). Qirgʻiziston Fanlar Akademiyasi akademigi (1974). Qirgʻiziston Qishloq xoʻjaligi institutini tamomlagan (1953). 1956-58-yillari Moskvadagi yozuvchilar uyushmasi Oliy adabiyot kursi tinglovchisi. Asarlarini qirgʻiz va rus tilida yozgan. Ilk hikoyalari 1950-yillarda bosilgan. “Baydamtol sohillarida” (1955), “Yuzma-yuz” (1957) asarlari oʻtkir syujet, kuchli ichki ruhiy ziddiyatlarga boy. “Jamila” (1958), “Sarvqomat dilbarim” (1961), “Boʻtakoʻz”, “Birinchi muallim” (1962), “Momo yer”, “Somon yoʻli” (1963), “Alvido, ey Gulsari” (1966) kabi qissalarida muhabbat mavzui katta ehtiros bilan tarannum etilgan. Aytmatovning “Togʻ va choʻl qissalari” turkumiga kirgan asarlari yuksak baholandi. ",
+        "book_image": "https://api.mutolaa.com/media/books/2024/03/Chingiz_Aytmatov._Sarvqomat_dilbarim_qissa.jpg",
+        "book_price": "25 000",
+        "book_star": "4"
+      },
+      {
+        "id": "19",
+        "book_name": "Toshbaqaning hikoyasi",
+        "book_author": "Anvar Obidjon",
+        "book_description": "Kichik yoshdagi bolalar uchun ajoyib ertak",
+        "book_infoauthor": "Anvar Obidjon Farg‘ona viloyati Oltiariq tumanining Poloson qishlog‘ida 1947 yilning 25 yanvarida xizmatchi oilasida tug‘ilgan. 1964 yilda o‘rta maktabni tugatgach, Samarqand moliya texnikumida, 1969-1971 yillarda jamoa xo‘jaligida hisobchi, klub mudiri, tuman gazetasi, viloyat radiosida turli vazifalarni bajardi, Toshkent Davlat universitetining jurnalistika fakultetini sirtdan tamomladi. 1981 yildan boshlab u Toshkentga ko‘chib kelib, «Yosh gvardiya» nashriyotida, «Yosh kuch», «Mushtum» jurnallarida ishladi. «Cho‘lpon» nashriyotida bosh muharrir bo‘lib ishlagan",
+        "book_image": "https://api.mutolaa.com/media/books/2024/11/Toshbaqaning_hikoyasi.jpg",
+        "book_price": "25 000",
+        "book_star": "4"
+      },
+      {
+        "id": "20",
+        "book_name": "Oydin tunlar",
+        "book_author": "Fyodor Dostoyevskiy",
+        "book_description": "“Oydin tunlar” XIX asr taniqli rus yozuvchisi Fyodor Dostoyevskiy qalamiga mansub roman. Rus va jahon adabiyotiga katta taʼsir koʻrsatgan Dostoyevskiy toʻlaqonli badiiy obrazlarda nafaqat voqealar oqimi va insonlar taqdirini, balki jamiyat maʼnaviy hayotidagi fojiaviy konfliktlarni ham ochib bera olgan nodir isteʼdod sohibidir. Oʻzining roman va qissalarida fikrlarning keskin kurashini, gʻoya va dunyoqarashning toʻqnashuvini mahorat bilan tasvirlagan. Uning asarlari vazmin tasvir uslubi emas, aksincha, sof dramatik janrlarga xos keskinligi bilan ajralib turadi.",
+        "book_infoauthor": "Rus yozuvchisi. Ijodiy faoliyati 1844-yilda boshlangan. Birinchi romani – “Bechora odamlar”da (1846) xoʻrlangan, ijtimoiy adolatsizlikka duchor boʻlgan “kichkina odamlar”ning qismati hikoya qilingan. “Qiyofadosh” (1846), “Oq tunlar” (1848) qissalari ham ijtimoiy mavzuda. N. Dobrolyubov, V. Belinskiy kabi demokrat ziyolilarning inqilobiy gʻoyalariga mahliyo boʻlib qolgan Dostoyevskiy 1847-yildan rus inqilobchisi va xayoliy sotsialisti M. V. Petrashevskiy toʻgaragiga faol qatnashib, xayoliy sotsializm gʻoyasini qoʻllab-quvvatlaydi. Mazkur toʻgarakda qatnashib, mavjud davlat tuzumini kuch ishlatib oʻzgartirishga harakat qilgani uchun Dostoyevskiy oʻlim jazosiga hukm qilinadi (1849). Nufuzli davlat va jamoat arboblarining aralashuvidan soʻng, podsho Aleksandr II oʻlim jazosini 4-yillik katorga surguni bilan almashtiradi.",
+        "book_image": "https://api.mutolaa.com/media/books/2024/07/Fyodor_Dostoyevskiy._Oydin_tunlar_roman.jpg",
+        "book_price": "45 000",
+        "book_star": "5"
+      },
+      {
+        "id": "21",
+        "book_name": "Sohibqiron",
+        "book_author": "Abdulla Oripov",
+        "book_description": "1996-yilda Oʻzbekiston xalq shoiri Abdulla Oripov tomonidan yozilgan, Sohibqiron Amir Temur hayotiga bagʻishlangan sheʼriy drama. Amir Temur – jahon tarixida chuqur iz qoldirgan shaxslardan biri. Uning hayot yoʻli bir tekis kechmagan. Taqdirning turfa zarbalariga munosib dosh berolganligi uchun ham shunday ulugʻ maqomga erishgan. Abdulla Oripov qalamiga mansub 'Sohibqiron' sheʼriy dramasida Amir Temurning murakkab umr yoʻli haqqoniy boʻyoqlarda ochib berilgan.",
+        "book_infoauthor": "Abdulla Oripov 1941 yil 21 martda Qashqadaryo viloyati Koson tumani Neko‘z qishlog‘ida dunyoga keldi. 1958 yilda o‘rta maktabni oltin medal bilan tamomlagan Oripov Toshkent Milliy universitetining jurnalistika fakultetiga o‘qishga kirib, uni ham 1963 yilda imtiyozli diplom bilan yakunlaydi. «Yosh gvardiya» (1963-69), G‘afur G‘ulom nomidagi Adabiyot va san'at nashriyotlarida muharrir (1969-74), «Sharq yulduzi» jurnalida adabiy xodim, bo‘lim mudiri (1974-76), O‘zbekiston Yozuvchilar uyushmasida adabiy maslahatchi (1976-82), mas'ul kotib (1985-88), Toshkent viloyat bo‘limida mas'ul kotib (1982—83), «Gulxan» jurnalida muharrir (1983-85), 1996 yildan O‘zbekiston Yozuvchilar uyushmasi raisi, ayni vaqtda, O‘zbekiston Respublikasi Mualliflik huquqini himoya qilish davlat agentligi raisi lavozimlarida faoliyat yuritgan.",
+        "book_image": "https://api.mutolaa.com/media/books/2024/05/Abdulla_Oripov._Sohibqiron_she%CA%BCriy_drama.jpg",
+        "book_price": "10 000",
+        "book_star": "5"
+      },
+      {
+        "id": "22",
+        "book_name": "Galaktikada bir kun",
+        "book_author": "Saʼdullo Quronov",
+        "book_description": "Mazkur asar voqealari koinotda kechuvchi o‘tkir syujetlar asosida qurilgan. Qissa qahramoni 12 yoshli Ahmad yaratgan juda noyob fazo kemasi yerlik olimlar qolib, o‘zga sayyoraliklarning e’tiborini tortadi. Endi u o‘zi bilmagan holda galaktikamizdagi yovuz kuchlar va yaxshilarning kurashiga aralashib qoladi. Asarni o‘qirkansiz, qiziqarli voqea va hodisalar ichida qahramonlar bilan birga yashaysiz. Shu bilan birga, koinot, galaktikalar, turli osmon jismlari va hodisalari haqida ilmiy maʼlumotlar bilan ham tanishasiz.",
+        "book_infoauthor": "Sa'dullo Quronov 1989-yil 31-yanvarda Andijon tumanida tugʻilgan. 1996 – 2004-yillarda tumandagi 4-umumtaʼlim maktabida, 2004 – 2006-yillarda ADU qoshidagi 11-litsey-internatda oʻqigan. 2006 – 2007-yillarda Andijon davlat universiteti, 2007 – 2012-yillar davomida Oʻzbekiston Milliy universiteti filologiya fakultetining bakalavr, magistratura bosqichlarini tamomlagan. Mehnat faoliyatini 2011-yilda “Sharq yulduzi” jurnalida boshlab, masʼul kotib, adabiyotshunoslik boʻlimi muharriri lavozimlarida ishlagan. 2015-yildan boshlab “Jajji akademik” bolalar jurnalida muharrir, keyinroq bosh muharrir lavozimlarida ishlagan. ",
+        "book_image": "https://api.mutolaa.com/media/books/2024/01/Gallaktikada_bir_kun_1.jpg",
+        "book_price": "70 000",
+        "book_star": "5"
+      },
+      {
+        "id": "23",
+        "book_name": "Sanʼatkor",
+        "book_author": "Abdulla Qahhor",
+        "book_description": "Abdulla Qahhor hikoyalaridagi qahramonlar xuddi real hayotda bordek, ularning keyingi hayoti qanday boʻlgan ekan deb qiziqib qolasiz. Shunday hikoyalardan biri “Sanʼatkor” hikoyasidir. Unda savodsiz, soʻzning farqiga bormaydigan “sanʼatkor” va uning xatosini yuziga aytgan oddiy traktorchi haqida hikoya qilinadi.",
+        "book_infoauthor": "Abdulla Qahhor (1907—1968) — Talantli oʻzbek yozuvchisi. 1907 yil 17 sentyabrda Ashtda tugʻildi. Oldin eski maktabda, «Istiqbol» maktab-internatida, soʻngra Qoʻqon pedtexnikumida oʻqidi. 1925 yilda Toshkentga kelib, turli tahririyatlarda mehnat qildi. 1926—1930 yillarda Oʻrta Osiyo davlat universitetining pedagogika fakultetida tahsil oldi. Umri mobaynida turli ijodiy muassasalarda ishladi.",
+        "book_image": "https://api.mutolaa.com/media/books/2024/05/Abdulla_Qahhor._San%CA%BCatkor_hikoya.jpg",
+        "book_price": "24 000",
+        "book_star": "5"
+      },
+      {
+        "id": "24",
+        "book_name": "Hayotga muhabbat",
+        "book_author": "Jek London",
+        "book_description": "Jek Londonning “Hayotga muhabbat” hikoyasi o‘ziga xos syujet qurilishiga ega. Muallif insonning kurashuvchanligi va umidiga urg‘u beradi. Boshida yo‘lga chiqqan, aniqrog‘i, borgan yo‘lidan iziga qaytayotgan ikki yo‘lovchining holati tavsirlanadi. Hikoya mazmunida inson uchun bu olamda oltindan ko‘ra muhimroq narsa, ya’ni tirik qolish, halovatda yashash va o‘z maqsadiga erishish yo‘lida tinimsiz intilish muhimligiga doir fikrlar mujassamlashgan.",
+        "book_infoauthor": "Amerika yozuvchisi. Yoshligida juda koʻp kasblar bilan shugʻullangan. 1893-yilda ilk bor u Yaponiya sohillariga dengiz safariga oddiy matros boʻlib borgan. 1894-yilda ishsizlarning Vashingtonga koʻchishida qatnashgan, daydilarcha hayot tarzi uchun qamoqqa olingan, siyosiy harakatlarga qoʻshilgan. 1895-yilda AQSh ishchi partiyasi, 1901-yil Sotsialistik partiyaga aʼzo boʻlgan. Keyinroq Kaliforniya universitetiga oʻqishga kiradi va koʻp oʻtmay oʻqishni tashlab ketadi. Adabiy faoliyati 1893 y. dan boshlangan. ",
+        "book_image": "https://api.mutolaa.com/media/books/2024/02/Jek_London._Hayotga_muhabbat.jpg",
+        "book_price": "55 000",
+        "book_star": "5"
+      },
+      {
+        "id": "25",
+        "book_name": "Temir xotin",
+        "book_author": "Sharof Boshbekov",
+        "book_description": "Muallif xalqning hamma dardini, dod-fig‘onini, achchiq alamlarini asarida ko‘tarib chiqadi. Kitobxon o‘yga toladi: Aslida robot kim? Alomatxonmi yoki Qo‘chqorvoy va unga o‘xshagan mehnatkashlarmi? Axir ishla desa ishlaydigan, paxta konida turib o‘ziga paxta topilmaydigan va bu uchun lom-mim deyolmaydigan, haq-huquqini talab qilolmaydigan kimsalarning robotdan nima farqi qoladi?",
+        "book_infoauthor": "1951 yilda Samarqand viloyati Bulung'ur tumanining G'ubir qishlog'ida tug'ilgan. 1969 yilda Toshkent teatr va rassomchilik instituti (hozirgi San'at instituti)ni tugatib, talay yillar Muqimiy nomidagi musiqali drama teatrida aktyor bo'lib ishlagan. ",
+        "book_image": "https://api.mutolaa.com/media/books/2024/03/Sharof_Boshbekov._Temir_xotin.jpg",
+        "book_price": "22 000",
+        "book_star": "4.5"
+      },
+      {
+        "id": "26",
+        "book_name": "Ertaga qiyomat",
+        "book_author": "Rey Bredberi",
+        "book_description": "Moʻjazgina hikoya ikki insonning olam va uning intihosi haqidagi oʻzaro suhbatlaridan iborat",
+        "book_infoauthor": "XX asrning eng buyuk fantast-yozuvchilaridan biri – Rey Bredberi (Ray Bradbury) 1920-yili Illinoys shtatidagi Uokigan shahrida tavallud topgan. Bo‘lajak yozuvchi faqat o‘rta ta’lim bilan cheklanib, hech qachon oliy ma’lumotli bo‘lmagan. Bredberi 12 yoshida yozuvchi bo‘lishga qaror qilgan. O‘zining dastlabki ishlarida u viktorian prozasi vakili – Edgar Poning uslubiga taqlid qilgan. Bredberining hikoyalari, odatda, arzon jurnallarda chop etilgan va faqatgina “Mars xronikalari” hikoyalar to‘plami unga dastlabki tijoriy muvaffaqiyatni taqdim etgan (1950-yil).",
+        "book_image": "https://api.mutolaa.com/media/books/2024/05/Rey_Bredberi._erta_qiyomat.jpg",
+        "book_price": "100 000",
+        "book_star": "5"
       }
+      
     ]
 }

@@ -53,20 +53,20 @@ interface PageProps {
   };
 }
 
-// Buni qo‘shing: bu Next.js routingga kerak
+
 export async function generateStaticParams() {
   const res = await instance().get("/books");
   const books = res.data;
 
   return books.map((book: any) => ({
-    id: book.id,
-    locale: "en", // yoki mavjud bo‘lgan locale — agar ko‘p tilli bo‘lsa, har bir tilli qilib qaytaring
+    id: book.id.toString(),
+    locale: "en",
   }));
 }
 
+
 export default async function SingleBookPage({ params }: PageProps) {
   const { id } = params;
-
   const res = await instance().get(`/books/${id}`);
   const book = res.data;
 

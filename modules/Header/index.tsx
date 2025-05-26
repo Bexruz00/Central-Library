@@ -16,9 +16,9 @@ const Header = () => {
   const actionsList: HeaderActionsType[] = [
     { id: 1, path: "/home", title: t("home") },
     { id: 2, path: "/about", title: t("about") },
-    { id: 3, path: "/delivery-team", title: t("shop") },
-    { id: 4, path: "/sellers", title: t("delivery-team") },
-    { id: 5, path: "/shop", title: t("sellers") }
+    { id: 3, path: "/shop", title: t("shop") },
+    { id: 4, path: "/delivery-team", title: t("delivery-team") },
+    { id: 5, path: "/sellers", title: t("sellers") }
   ]
 
   return (

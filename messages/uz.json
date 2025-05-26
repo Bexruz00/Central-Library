@@ -14,5 +14,19 @@
   },
   "Swippers":{
     "swippers-title": "Bizning eng yaxhi to'plam"
+  },
+  "Card":{
+    "card-title": "Biz uchun berilgan izohlar",
+    "card-user1": "Bu onlayn kutubxona juda qulay va foydalanish oson. Men kerakli kitoblarni atigi bir necha daqiqada topdim.",
+    "card-user2": "Kitoblar xilma-xilligi juda ajoyib. Shu platforma tufayli har kuni zavq bilan kitob o‘qiyman.",
+    "card-user3": "Sayt tez ochiladi va dizayni chiroyli. Bu men uchun o‘qishdagi eng sevimli joy.",
+    "card-user4": "Bu yerda ilmiy manbalar juda ko‘p ekanligidan hayratlandim. Ular ilmiy ishlarimda juda qo‘l kelmoqda."
+  },
+  "Info":{
+    "info-title": "Sevimli Kitoblaringiz <highlight> Shu yerda!</highlight>",
+    "info-subtitle": "Sevimli kitoblaringizni osongina onlayn xarid qiling! Tanlangan sarlavhalarga eksklyuziv takliflar va chegirmalardan bahramand bo'ling. Bizning kollektsiyamizga sho'ng'ing va o'qishni yanada qulayroq qiladigan maxsus takliflarni toping. Hozir xarid qiling va har bir xarid bilan koʻproq tejamkorlikni oching!",
+    "info-text1": "Kitob ro'yxati",
+    "info-text2": "Roʻyxatdan oʻtgan aʼzolar",
+    "info-text3": "Filiallar soni"
   }
 }

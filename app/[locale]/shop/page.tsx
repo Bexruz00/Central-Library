@@ -5,7 +5,7 @@ const Shop = () => {
   return (
     <>
       <Header/>
-      <h1>Shop</h1>
+      <h1>ooo</h1>
     </>
   )
 }

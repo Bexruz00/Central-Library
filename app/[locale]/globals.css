@@ -83,7 +83,7 @@
   text-align: center;
   background: radial-gradient(#CC9600, #FF7700);
   font-weight: 600;
-  -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -127,6 +127,30 @@
   color: white;
   background: #ff7700e2;
 }
+
+.card{
+  position: relative;
+  max-width: 260px;
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: end;
+  overflow: hidden;
+  user-select: none;
+}
+
+.card__box{
+  max-width: 260px;
+  height: 48%;
+  background: #a3a3a36d;
+  backdrop-filter: blur(10px);
+  padding: 20px;
+  }
+
+
+
 
 
 @keyframes rise1 {
@@ -298,6 +322,16 @@
     width: 150px !important;
     height: 400px !important;
   }
+
+  .card{
+    max-width: 230px;
+    height: 350px;
+  }
+  
+  .card__box{
+    max-width: 230px;
+    height: 48%;
+  }
 }
 
 @media (max-width: 575.5px) {
@@ -354,6 +388,17 @@
   width: 150px !important;
   height: 380px !important;
   margin: 0 !important;
+}
+
+.card{
+  max-width: 160px;
+  height: 300px;
+}
+
+.card__box{
+  max-width: 160px;
+  height: 48%;
+  padding: 10px;
 }
 
 }

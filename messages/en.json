@@ -14,5 +14,19 @@
   },
   "Swippers":{
     "swippers-title": "Our Best Picks"
+  },
+  "Card":{
+    "card-title": "Comments given to us",
+    "card-user1": "This online library is really convenient and easy to use. I found all the books I needed in just a few minutes.",
+    "card-user2": "The variety of books is impressive. I enjoy reading every day thanks to this platform.",
+    "card-user3": "Fast loading and a beautiful design. It's my favorite place to study. I love that...",
+    "card-user4": "I was surprised by how many academic resources are available here. It really helps with my research work."
+  },
+  "Info":{
+    "info-title": "Your favourite <highlight>Reads Are Here!</highlight>",
+    "info-subtitle": "Buy your favorite books online with ease! Enjoy exclusive offers and discounts on selected titles. Dive into our collection and find special deals that make reading more affordable. Shop now and unlock more savings with every purchase!",
+    "info-text1": "Book Listing",
+    "info-text2": "Registered Members",
+    "info-text3": "Branch Count"
   }
 }

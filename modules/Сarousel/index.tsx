@@ -26,7 +26,7 @@ const Carousels = () => {
   }
 
   return (
-    <div className='bg-black sm:!my-[80px] !my-[40px]'>
+    <div className='bg-black sm:!mt-[80px] !mt-[40px]'>
     <div className="!mx-auto galary containers">
         <div className="galary__TextBox">
           <strong className='text-outline'>Eng Sarasi</strong>
